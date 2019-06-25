@@ -1,5 +1,6 @@
 # RadioStreamRecorder
 Records a radio stream 
 
-requires requests
+## Requires requests:
+
 pip install requests
